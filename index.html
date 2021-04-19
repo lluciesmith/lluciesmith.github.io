@@ -1,0 +1,84 @@
+---
+layout: null
+title: Luisa Lucie-Smith
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>{{site.title}}</h1>
+						<p>Ciao! I am a Research Fellow at the Max Planck Institute for Astrophysics in Garching, working in the fields of cosmology and artificial intelligence. 
+							My <a href="{{ "/about/" | absolute_url }}">research</a> focuses on learning about the formation of structures in the Universe using machine learning.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">	
+							<p> 
+								<span class="image left"><img src="{{ "/images/IMG_0402.JPG" | absolute_url }}" alt="" /></span>
+								I am currently a Research Fellow at the <a href="https://www.mpa-garching.mpg.de">Max Planck Institute for Astrophysics</a> (MPA) in Garching, Germany.
+							</p>
+							<p>
+								Previously, I took a one-year postdoctoral research position <a href="https://www.ucl.ac.uk/astrophysics/">University College London</a> (UCL), 
+								working in the <a href="https://gmgalaxies.org">GMGalaxies</a> research group led by Andrew Pontzen, 
+								where I also did my PhD under the supervision of Prof. Hiranya Peiris and Prof. Andrew Pontzen.
+							</p>
+							<p>
+							    You can find a more formal description of my background in my <a href="images/CV_academic2020.pdf" >CV</a> and a list of my papers on <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Lucie-Smith%2C+L">arXiv</a>. 
+							</p>
+
+							</article>
+
+					
+
+					</div>
+			
+			<!-- Footer -->
+			{% include foot.html %}
+
+			</div>
+		
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
