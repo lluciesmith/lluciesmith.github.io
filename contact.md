@@ -7,4 +7,12 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## email
+
+Best way to contact me is via email: <a href = "mailto: luisals@mpa-garching.mpg.de">luisals@mpa-garching.mpg.de</a>
+
+Office: Room 142, Karl-Schwarzschild-Str. 1, 85741 Garching, Germany.
+
+<span class="image center"><img src="{{ "/images/munich.jpg" | absolute_url }}" alt="" style="width:100%; height:50%"/></span>
+Photo: München, courtesy of German Language School
+
+
