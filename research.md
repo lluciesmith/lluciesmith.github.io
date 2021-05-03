@@ -16,7 +16,7 @@ I use a combination of analytic modelling, numerical simulations and artificial 
 ### Deep learning insights into cosmological structure formation 
 
 
-<img src="{{ "/images/dl_flowchart2.pdf" | absolute_url }}"  width="60%" height="60%" style="float:left; padding-left:-1px;
+<img src="{{ "/images/dl_flowchart2.jpg" | absolute_url }}"  width="60%" height="60%" style="float:left; padding-left:-1px;
 padding-bottom:25px; padding-right:25px ; padding-top:10px" alt="" />
 
 This paper presents insights into the formation of dark matter halos using a deep learning framework. We trained a 3D convolutional neural network (CNN) to learn the non-linear relationship between the initial density field and the final mass of dark matter halos. While deep learning algorithms are generally seen as "black-boxes", we develop techniques that allow us to physically interpret the mapping learnt by the CNN. We removed anistropic information about the initial density field from the inputs and re-trained the CNN. We found no change in the model’s predictive accuracy, meaning that the features learnt by the CNN are equivalent to spherical averages over the initial density field. In other words, anisotropic information in the initial density field does not play a significant role in predicting the final mass of halos.
