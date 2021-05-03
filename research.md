@@ -27,7 +27,7 @@ This paper presents insights into the formation of dark matter halos using a dee
 
 ### An interpretable ML framework for dark matter halo formation
 
-<span class="image right"><img src="{{ "/images/shear_imps_errorbars.pdf" | absolute_url }}" alt=""/></span>
+<span class="image right"><img src="{{ "/images/shear_imps_errorbars.png" | absolute_url }}" alt=""/></span>
 
 In this work, we developed an interpretable machine learning framework to study the impact of tidal shear effects on the formation of dark matter halos. We trained a gradient boosted tree (GBT) algorithm on an N-body simulation to infer the final mass of the halo to which each dark matter particle belongs at z=0. With GBTs, we can measure the relevance of each input feature in training the algorithm to predict the correct target variable; this allowed us to determine which features are most informative in predicting final halo masses. We first trained the algorithm with information about the density contrast in the particles' local environment in the initial conditions. The addition of tidal shear information does not yield any improvement over density information alone; the former contains irrelevant information to final halo mass. This result led to a re-evaluation of existing interpretations of ellipsoidal collapse theories of halo formation.
 
@@ -38,7 +38,7 @@ In this work, we developed an interpretable machine learning framework to study 
 
 ### Machine learning cosmological structure formation
 
-<span class="image left"><img src="{{ "/images/ROC_density_shear_final.pdf" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/ROC_density_shear_final.png" | absolute_url }}" alt="" /></span>
 In this paper, we first proposed a machine learning framework to gain new insights into the physics driving halo formation. We train a machine learning algorithm to learn cosmological structure formation from N-body simulations. The algorithm learns to predict whether or not dark matter particles will end up in halos of a given mass range, based on different types of information from the initial conditions.  When trained on spherical overdensities, the resulting predictions match those of spherical collapse approximations such as extended Press-Schechter theory. Additional information on the shape of the local gravitational potential is not able to improve halo collapse predictions; the linear density field contains sufficient information for the algorithm to also reproduce ellipsoidal collapse predictions based on the Sheth-Tormen model. 
 
 <a href="https://arxiv.org/abs/1802.04271"><b>Full article</b></a>, published in <i>Monthly Notices of the Royal Astronomical Society</i>, Volume 479, Issue 3, September 2018, Pages 3405–3414.
