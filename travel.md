@@ -7,7 +7,7 @@ sitemap:
     changefreq: weekly
 ---
 ### Publications
-You can find a list of my publications on <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Lucie-Smith%2C+L">arXiv</a>.s
+You can find a list of my publications on <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Lucie-Smith%2C+L">arXiv</a>.
 
 <hr />
 
