@@ -12,6 +12,7 @@ I am a cosmologist, whose aim is to answer fundamental physics questions about o
 I use a combination of analytic modelling, numerical simulations and artificial intelligence algorithms to learn about the Universe. In particular, I have been exploring the potential of explainable artificial intelligence (AI) algorithms to generate new knowledge about the underlying physics driving cosmological structure formation. By understanding and explaining how and why these complex algorithms reach particular decisions, one can use them to shed light into physics problems that may be too hard to tackle with standard statistical and analytical approaches.
 
 <hr />
+<!--
 
 ### Deep learning insights into cosmological structure formation 
 
@@ -42,3 +43,4 @@ In this work, we developed an interpretable machine learning framework to study 
 In this paper, we first proposed a machine learning framework to gain new insights into the physics driving halo formation. We train a machine learning algorithm to learn cosmological structure formation from N-body simulations. The algorithm learns to predict whether or not dark matter particles will end up in halos of a given mass range, based on different types of information from the initial conditions.  When trained on spherical overdensities, the resulting predictions match those of spherical collapse approximations such as extended Press-Schechter theory. Additional information on the shape of the local gravitational potential is not able to improve halo collapse predictions; the linear density field contains sufficient information for the algorithm to also reproduce ellipsoidal collapse predictions based on the Sheth-Tormen model. 
 
 <a href="https://arxiv.org/abs/1802.04271"><b>Full article</b></a>, published in <i>Monthly Notices of the Royal Astronomical Society</i>, Volume 479, Issue 3, September 2018, Pages 3405–3414.
+-->
