@@ -8,11 +8,9 @@ sitemap:
     changefreq: weekly
 ---
 
-Best way to contact me is via email: <a href = "mailto: luisals@mpa-garching.mpg.de">luisals@mpa-garching.mpg.de</a>
+Best way to contact me is via email: <a href = "mailto: uisa.lucie-smith@uni-hamburg.de">luisa.lucie-smith@uni-hamburg.de</a>
 
-Office: Room 142, Karl-Schwarzschild-Str. 1, 85741 Garching, Germany.
+Office: Room 105, Hauptdienstgebäude, Hamburger Sternwarte, Gojenbergsweg 112, 21029 Hamburg
 
-<span class="image center"><img src="{{ "/images/munich.jpg" | absolute_url }}" alt="" style="width:100%; height:50%"/></span>
-Photo: München, courtesy of German Language School
-
+<span class="image center"><img src="{{ "/images/hamburg.jpg" | absolute_url }}" alt="" style="width:100%; height:50%"/></span>
 
