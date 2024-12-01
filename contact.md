@@ -7,10 +7,12 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-
 Best way to contact me is via email: <a href = "mailto: uisa.lucie-smith@uni-hamburg.de">luisa.lucie-smith@uni-hamburg.de</a>
 
-Office: Room 105, Hauptdienstgebäude, Hamburger Sternwarte, Gojenbergsweg 112, 21029 Hamburg
+Office: 
+Hamburger Sternwarte
+Gojenbergsweg 112
+21029 Hamburg
 
 <span class="image center"><img src="{{ "/images/hamburg.jpg" | absolute_url }}" alt="" style="width:100%; height:50%"/></span>
 
